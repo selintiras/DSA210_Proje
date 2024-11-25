@@ -8,11 +8,11 @@ The primary motivation for this project is to identify relationships between phy
 
 **Dataset Description:**
 
-My dataset consist of below variables;
+My dataset consist of these variables which are alongside timestamps, enabling an analysis of patterns across time;
 Step Counts: The number of steps recorded over specific time frames.
 Heart Rates: Heart rate measurements across different activities and periods.
 Active Energy Burned: Calories burned through physical activities.
-These variables are recorded alongside timestamps, enabling an analysis of patterns across time.
+
 
 **Project Goals:**
 
