@@ -7,8 +7,8 @@ While brainstorming project ideas, I recognized an opportunity to leverage my pe
 The primary motivation for this project is to identify relationships between physical activity, energy expenditure, and heart rate. By visualizing trends and correlations, I aim to better understand these dynamics while reinforcing the core concepts of the DSA210 course content. Integrating personal data with analytical methods offers a unique way to connect theory to real-world applications.
 
 **Dataset Description:**
-The dataset consists of:
 
+My dataset consist of below variables;
 Step Counts: The number of steps recorded over specific time frames.
 Heart Rates: Heart rate measurements across different activities and periods.
 Active Energy Burned: Calories burned through physical activities.
