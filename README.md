@@ -1,7 +1,10 @@
 # DSA210_Proje
 My Kaggle Dataset: https://kaggle.com/datasets/4cabf24eb0a7dafdc3bfc867b4f5541ffdc636c173f747f856f0a4593d15e381
+
 Website: https://selintiras.github.io
+
 Presentation File: https://github.com/selintiras/DSA210_Proje/blob/main/presentation.pptx
+
 Codes: https://github.com/selintiras/DSA210_Proje/blob/main/main.ipynb
 
 ## Project Overview: Personal Health Data Analysis
